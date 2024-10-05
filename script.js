@@ -14,7 +14,7 @@ switch (titulo) {
     conteudo.innerHTML = '<img src="via21.jpg" alt="Página 1" /> <br> <img src="via22.jpg" alt="Página 1" /> <br> <img src="via23.jpg" alt="Página 1" /> <img src="via24.jpg" alt="Página 1" />'
         break;
     case 'Dotta':
-        conteudo.innerHTML = '<img src="https://abrir.link/bhKky" alt="Página 2" />'; // Substitua pela URL da sua imagem
+        conteudo.innerHTML = '<img src="dotta1.jpg" alt="Página 1" /> <br> <img src="dotta2.jpg" alt="Página 1" /> <br> <img src="dotta3.jpg" alt="Página 1" /> <img src="dotta4.jpg" alt="Página 1" />' 
         break;
     case 'Stock':
         conteudo.innerHTML = '<img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" /> <br> <img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" />'; // Substitua pela URL da sua imagem
