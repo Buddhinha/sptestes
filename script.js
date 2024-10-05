@@ -17,10 +17,10 @@ switch (titulo) {
         conteudo.innerHTML = '<img src="dotta1.jpg" alt="Página 1" /> <br> <img src="dotta2.jpg" alt="Página 1" /> <br> <img src="dotta3.jpg" alt="Página 1" /> <img src="dotta4.jpg" alt="Página 1" />' 
         break;
     case 'Stock':
-        conteudo.innerHTML = '<img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" /> <br> <img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" />'; // Substitua pela URL da sua imagem
+        conteudo.innerHTML = '<img src="stock.jpg" alt="Página 1" /> <br>'; // Substitua pela URL da sua imagem
         break;
     case 'Pomier':
-        conteudo.innerHTML = '<img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" /> <br> <img src="file:///C:/Users/Andr%C3%A9/Downloads/download.jfif" alt="Página 1" />'; // Substitua pela URL da sua imagem
+        conteudo.innerHTML = '<img src="pomier1.jpg" alt="Página 1" /> <br> <img src="pomier2.jpg" alt="Página 1" /> <br> <img src="pomier3.jpg" alt="Página 1" /> <br> <img src="pomier4.jpg" alt="Página 1" /> <br> <img src="pomier5.jpg" alt="Página 1" /> <br> <img src="pomier6.jpg" alt="Página 1" /> <br> <img src="pomier7.jpg" alt="Página 1" />'; // Substitua pela URL da sua imagem
         break; 
     
     case 'Super Correa':
